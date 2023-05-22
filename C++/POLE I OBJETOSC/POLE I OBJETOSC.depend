@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590004368 source:e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\pole i objetosc\main.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+	<iomanip>
+	<cstdlib>
+	<stdio.h>
+

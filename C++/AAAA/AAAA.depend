@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1591016133 source:e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\aaaa\main.cpp
+	<iostream>
+	<locale.h>
+	"potegi.h"
+	<windows.h>
+	<cmath>
+	"polaFigur.h"
+	"PrSrednia.h"
+	"wartoscMAX.h"
+	"wartoscMIN.h"
+	"kelwiny.h"
+	<iomanip>
+	<cstdlib>
+	<stdio.h>
+
+1590926855 e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\aaaa\potegi.h
+
+1591013655 e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\aaaa\polafigur.h
+
+1591015960 e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\aaaa\wartoscmax.h
+
+1590965652 e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\aaaa\kelwiny.h
+
+1591016093 e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\aaaa\prsrednia.h
+
+1591015958 e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\aaaa\wartoscmin.h
+

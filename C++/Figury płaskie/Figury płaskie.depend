@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590700738 source:e:\a_archiwumkuby\aa_strony_i_projekty_html\c++\figury p³askie\main.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+	<iomanip>
+	<cstdlib>
+	<stdio.h>
+
