@@ -1,0 +1,376 @@
+body{
+    height: 100%;
+   margin-bottom: 100px;
+margin: 2px;
+    background-color: cadetblue;
+color:#273d44;
+
+}
+#NAGLOWEK {
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+#MENU1
+{
+    color: #3F616B;
+    font-family: 'Oswald', sans-serif;
+    float: left;
+    font-size: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#MENU1:hover{
+    color: #145075;
+
+
+
+}
+
+#MENU2
+{
+    margin-right: 20px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #3F616B;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 50px;
+
+
+}
+#MENU2:hover{
+    color: #145075;
+
+
+
+}
+#MENU3
+{
+    margin-right: 20px;
+    color: #3F616B;
+    font-family: 'Oswald', sans-serif;
+    float: left;
+    margin-left: 20px;
+    font-size: 50px;
+}
+#MENU3:hover{
+    color: #145075;
+}
+#MENU4
+{
+    margin-right: 20px;
+    color: #3F616B;
+    font-family: 'Oswald', sans-serif;
+    float: left;
+    margin-left: 20px;
+    font-size: 50px;
+}
+#MENU4:hover{
+    color: #145075;
+}
+#MENU5
+{
+    margin-right: 20px;
+    color: #3F616B;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    margin-left: 10px;
+    text-align: center;
+}
+#MENU5:hover{
+    color: #145075;
+
+
+
+}
+
+#INFO{
+float: left;
+
+
+}
+
+
+
+.wyrownanie{
+
+margin-left: 20px;
+margin-right: 20px;
+float: left;
+
+}
+.texty
+{
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+  font-size: 25px;
+  width: 400px;
+
+
+}
+.table
+
+{
+    position: absolute;
+    margin-top: 105px;
+    border: 3px solid rgb(44, 6, 6);
+}
+.card-header
+{
+
+   margin-left: 100px;
+    margin-top: 60px;
+    float: left;
+}
+
+{
+    border: 2px solid rgb(44, 6, 6);
+}
+.row
+{
+    position: absolute;
+    bottom: 130px;
+}
+
+#STOPKA
+{
+    position: fixed;
+    bottom: 0px;
+    margin: 0px;
+    width:99.9%;
+
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(53, 52, 54);
+    color: rgb(245, 243, 245);
+height: 50px;
+
+
+}
+a
+{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(77, 11, 77);
+    float: left;
+    margin-left: 10px;
+    font-size: 50px;
+
+}
+#Z{
+background-color: cadetblue;
+}
+#M
+{
+background-color: cadetblue;
+}
+#I
+{
+background-color: cadetblue;
+}
+#L
+{
+background-color: cadetblue;
+}
+
+
+#TRESC
+
+{
+    clear: both;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+
+
+}
+#flaga
+{
+
+  margin-top: 20px;
+    clear: both;
+    text-align: center;
+    width: 30%;
+    height: auto;
+}
+#tabzdj
+{
+
+position: absolute;
+box-shadow: 20px 20px 10px 0 rgba(0, 0, 0, 0.2);
+top: 250px;
+right: 100px;
+
+}
+#foto1
+{
+    position: absolute;
+    top: 250px;
+    left: 90px;
+    width: 45%;
+    height: auto;
+    transition-duration: 1s;
+    margin: 0 auto;
+    display: block;
+      }
+
+      #foto1:hover {
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        z-index: 0;
+      }
+
+#foto2
+{
+    transition-duration: 1s;
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    top: 250px;
+    right: 50px;
+    width: 45%;
+    height: auto;
+    overflow: hidden;
+    padding: 0;
+
+}
+#foto2:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    z-index: 0;
+}
+#foto3
+{
+    position: absolute;
+    top: 900px;
+    right: 100px;
+    width: 45%;
+    height: auto;
+    overflow: hidden;
+    padding: 0;
+
+
+}
+#foto3 {
+    transition-duration: 1s;
+    margin: 0 auto;
+    display: block;
+}
+#foto3:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    z-index: 0;
+}
+#foto4
+{
+    position: absolute;
+    top: 700px;
+    left: 50px;
+    width: 45%;
+    height: auto;
+    transition-duration: 1s;
+    margin: 0 auto;
+    display: block;
+}
+
+#foto4:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    z-index: 0;
+}
+#foto5
+{
+    transition-duration: 1s;
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    top: 1400px;
+    right: 150px;
+    width: 45%;
+    height: auto;
+
+}
+#foto5:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    z-index: 0;
+}
+#foto6
+{
+    transition-duration: 1s;
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    top: 1300px;
+    left: 100px;
+    width: 40%;
+    height: auto;
+}
+#foto6:hover
+{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    z-index: 0;
+}
+#firstlist{
+  border-top: 3px dotted black;
+  text-shadow: 1px 0.5px 2px black;
+  margin-top: 80px;
+  margin-bottom: 20px;
+
+
+}
+.lista
+{
+  text-shadow: 1px 0.5px 2px black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.box
+{
+height: 1800px;
+}
+.box2
+{
+height: 100px;
+}
+.box3
+{
+height: 700px;
+}
+#BOOKING
+{
+    color: #375D75;
+    font-size: 80px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+#sekcja{
+clear: both;
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+list-style-type: upper-roman
+}
+.podnaglowek
+{
+  text-align: center;
+font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+.podnaglowek2
+{
+  margin-top: 30px;
+  text-align: center;
+font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}

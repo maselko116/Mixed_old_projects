@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
+		<title>MONGOLIA</title>
+	</head>
+	<body id = "I">
+		<div id="top">
+			<header id="NAGLOWEK">INFORMACJE OGÓLNE</header>
+
+<nav>
+
+	<nav> <a id="MENU1" href = index.html >Strona Główna  </nav>
+		<nav> <a id=MENU2 href = zdjontka.html> Zdjęcia </a> </nav>
+		 <nav> <a id=MENU3 href = miejsca.html> Zobacz miejsca warte odwiedzenia  </a> </nav>
+		<nav> <a id=MENU4 href = informacje.html>Mongolia - ciekawostki   </a> </nav>
+		<nav> <a id=MENU5 href = ludnosc.html> Ludność </a></nav>
+
+
+</nav>
+
+
+
+			<article id="sekcja">
+				<li id="firstlist"> Całkowita powierzchnia Mongolii wynosi 1 564 116 km2.
+				</li>
+				<li class="lista">W Mongolii żyje 3 miliony ludzi, a gęstość zaludnienia wynosi zaledwie 2 osoby/km².
+				</li>
+				<li class="lista">36% ludności Mongolii nie ukończyło 18 roku życia.
+				</li>
+				<li class="lista">Wielki Mur Chiński zaczął być budowany w Mongolii wewnętrznej w VI wieku p.n.e..
+				</li>
+				<li class="lista">Mongolia nazywana jest „Krainą Błękitnego Nieba”, ponieważ w roku ma ponad 260 słonecznych dni.
+				</li>
+				<li class="lista">Mówi się, że Mongolia wywodzi się od słowa Mongoł, które ma pochodzić od słowa mong, oznaczającego „odważny”.
+				</li>
+				<li class="lista">W 2011 roku mongolski watażka Genghis Khan został wybrany jednym z 25 najważniejszych politycznych Ikon wszech czasów magazynu „Time”.
+				</li>
+				<li class="lista">Mongolia słynie z koczowniczego stylu życia – jest jedną z niewielu pozostałych kultur koczowniczych na świecie – i szacuje
+					się, że od 30% do 40% mieszkańców tego kraju żyje w ten sposób. Koczownicy Mongolii to pasterze, którzy przetrwają dzięki
+					inwentarzowi żywemu, takiemu jak wielbłądy, bydło i konie.
+				</li>
+				<li class="lista">45% ludności Mongolii mieszka w ruchliwej stolicy Ułan Bator, gdzie życie jest o wiele bardziej nowoczesne, a podróżni znajdą tu liczne muzea, sklepy, restauracje, bary i kluby.
+				</li>
+				<li class="lista">
+					Współczesna Mongolia stanowi jednak tylko część historycznej ojczyzny Mongołów.
+				</li>
+			</article>
+			<div class = box2>
+
+			</div>
+			<footer id="STOPKA">Autor: <address>Jakub Masłowski (kiku116m@gmail.com) | klasa IV E</address>
+				</footer>
+		</div>
+	</body>
+</html>
